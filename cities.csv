@@ -1,5 +1,5 @@
-﻿Rank,City,State,Population,URL
-1,New York,New York," 8,622,698 ",https://newyork.craigslist.org/
+﻿Rank,City,State,Population,URL,Sub,SubSub
+1,New York,New York," 8,622,698 ",https://newyork.craigslist.org/,manhattan
 2,Los Angeles,California," 3,999,759 ",https://losangeles.craigslist.org/
 4,Houston,Texas," 2,312,717 ",https://houston.craigslist.org/
 7,San Antonio,Texas," 1,511,946 ",https://sanantonio.craigslist.org/
